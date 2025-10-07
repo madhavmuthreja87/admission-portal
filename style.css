@@ -1,26 +1,34 @@
 h1{
-    color:rgb(255, 0, 0);
+    color:rgb(111, 241, 36);
     text-align:center;
+    background-color:rgb(27, 27, 152);
 }
 
 h2{
     color:rgb(139, 1, 118);
     text-align:center;
+    background-color: bisque;
 }
 h3{
-    color:blue
-
-}
-h4{
-    color:orangered
+    color:green;
+    margin-left: 25px;
+    background-color:rgb(17, 166, 166);
 }
 form{
-    color:rgb(96, 5, 96);
-    
+    color:rgb(65, 36, 104);
+    border:6px double rgb(236, 36, 36);
+    display: inline-block;
+    background-color:rgb(181, 224, 253);
     
 }
 
 body{
-    background-color:rgb(240, 240, 240)
+    background-color:rgb(231, 243, 162)
 }
+button{
+    margin-left: 150px;
+    background-color:rgb(83, 255, 83);
+    
+}
+
 
